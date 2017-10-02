@@ -2,7 +2,7 @@
 #include <Keyboard.h>
 
 #define DATA_PIN A0
-#define PACKAGE_SIZE 25 // # of low/high signals
+#define PACKAGE_SIZE 25 // # of long/short signals
 
 #define COMMAND_DOWN 1
 #define COMMAND_STOP 2
